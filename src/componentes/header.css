@@ -1,0 +1,19 @@
+.cabeçalho {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.logo img {
+    height:100%;
+}
